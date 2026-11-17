@@ -1,3 +1,5 @@
 raw/
 out/
 shots/
+.prompt.txt
+bundle.tar.gz
